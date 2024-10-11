@@ -1,6 +1,6 @@
-# Android Auto Automation
+# Xiaoyuan Auto
 
-本项目旨在通过自动化工具实现对 Android 设备的截图、图像裁剪、颜色计算和模板匹配等操作。项目使用了 Python 语言，并结合了 OpenCV、PIL 和 ADB 等工具。
+小猿口算自动答题
 
 ## 安装依赖
 
